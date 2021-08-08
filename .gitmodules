@@ -10,3 +10,6 @@
 [submodule "LearnMetal"]
 	path = LearnMetal
 	url = git@github.com:heihuhei2013/LearnMetal.git
+[submodule "OpenGLLearnWorkspace"]
+	path = OpenGLLearnWorkspace
+	url = git@github.com:heihuhei2013/OpenGLLearnWorkspace.git
