@@ -7,3 +7,6 @@
 [submodule "google-filament-render-engine"]
 	path = google-filament-render-engine
 	url = git@github.com:google/filament.git
+[submodule "LearnMetal"]
+	path = LearnMetal
+	url = git@github.com:heihuhei2013/LearnMetal.git
