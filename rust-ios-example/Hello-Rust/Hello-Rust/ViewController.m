@@ -23,6 +23,7 @@
     NSLog(@"s:%s",s);
     
     rust_hello_free(s);
+    
     s = NULL;
     
 }

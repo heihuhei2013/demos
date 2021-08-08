@@ -1,0 +1,9 @@
+[submodule "depot_tools"]
+	path = depot_tools
+	url = https://chromium.googlesource.com/chromium/tools/depot_tools.git
+[submodule "angle"]
+	path = angle
+	url = https://chromium.googlesource.com/angle/angle
+[submodule "google-filament-render-engine"]
+	path = google-filament-render-engine
+	url = git@github.com:google/filament.git
